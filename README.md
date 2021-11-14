@@ -1,3 +1,3 @@
 # Python-tapas
-This notebook will highlight AutoML
-Python notebook files use the extension ipynb
+This repository will highlight 1.  AutoML
+Python package files use the extension ipynb
